@@ -1,0 +1,147 @@
+/* li{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*/)
+#container{
+	width: 90%;
+	margin: 0 auto;
+	background-color: #50BEBE;
+}
+.contenedor{
+	    margin-top: 65px;
+}
+
+/* .navbar-default {
+    background: #1E5A7C;
+    border-color: transparent;
+    width: 100%;
+}
+ */
+/* .navbar-default .navbar-nav > li > a {
+    color: #ffffff;
+    font-size: 1.1em;
+}
+
+Lista de OPCIONES
+.navbar-default .navbar-nav > li > a {
+	color: #ffffff;
+	font-size: 1.1em;
+}
+
+Lista de OPCIONES :HOVER
+.navbar-default .navbar-nav > li > a:hover {
+	background: #48A0E0;
+}
+
+Opcion ACTIVO
+.navbar-default .navbar-nav > li.active > a {
+	background: #48A0E0;
+	color: #ffffff;
+}
+
+Opcion ACTIVO :HOVER
+.navbar-default .navbar-nav > li.active > a:hover {
+	background: #48A0E0;
+	color: #ffffff;
+}
+
+Opcion ACTIVO SIN VINCULO
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+	color: #ffffff;
+	background: #48A0E0;
+} */
+
+/* IMG LOGOTIPO en la cinta del menu
+.navbar-default .navbar-brand img {
+	height: 50px;
+	margin: -15px 0 0;
+}
+
+------- Menu responsivo -----------
+BOTON del menu
+.navbar-toggle {
+	position: relative;
+	float: left;
+	padding: 9px 10px;
+	margin-top: 8px;
+	margin-right: 15px;
+	margin-bottom: 8px;
+	background-color: transparent;
+	background-image: none;
+	border: 1px solid transparent;
+	border-radius: 4px;
+}
+
+BORDE del boton menu
+.navbar-default .navbar-toggle {
+	border-color: #1E5A7C;
+}
+
+Bonton menu :HOVER
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+	background: #1E5A7C;
+}
+
+SUBMENU
+.dropdown-menu {
+	box-shadow: none;
+	border: medium none;
+}
+
+FONDO submenu
+.navbar-nav > li > .dropdown-menu {
+	background: #48A0E0;
+}
+
+OPCIONES submenu
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+	color: #ffffff;
+	font-size: 1.1em;
+}
+
+Opciones submenu :HOVER
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+	background: #94C8ED;
+	color: #ffffff;
+}
+
+Submenu ACTIVO
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+	background-color: #48A0E0;
+	color: #ffffff;
+} */
+
+
+/*
+ nav ul li{
+	display: inline;
+}
+
+nav ul li a{
+	text-align: none;
+} */
+/*
+img{
+	width: 100%;
+	height: auto;
+}
+th, td {
+	text-align: left;
+	padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+
+th{
+	background-color: #4CAF50;
+	color: white;
+} */
+
+/* @media (min-width: 1200px){
+	.container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
+	    width: 30%;
+	}
+} */
+
